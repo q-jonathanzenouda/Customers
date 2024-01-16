@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T19:17:11.162Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="osmrk_wBCUxLLv5xohIT" version="22.1.19" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T19:28:20.511Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_TGNUbbB1bvCWATLWouZ" version="22.1.19" type="github">
   <diagram name="Page-1" id="qW_F1XXq9CwrggD60HiP">
-    <mxGraphModel dx="3267" dy="1292" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3267" dy="1491" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,14 +34,19 @@
         <mxCell id="mWCD5HpuR10m7oxnyKSS-5" value="Transaction with Direct Relation to Listed Jurisdiction" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="160" y="317" width="122" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="mWCD5HpuR10m7oxnyKSS-8" value="&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;1035&quot; style=&quot;border-collapse:&#xa; collapse;width:777pt&quot;&gt;&#xa;&#xa; &lt;colgroup&gt;&lt;col width=&quot;1035&quot; style=&quot;mso-width-source:userset;mso-width-alt:36142;&#xa; width:777pt&quot;&gt;&#xa; &lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;19&quot; style=&quot;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl64&quot; width=&quot;1035&quot; style=&quot;height:14.5pt;width:777pt&quot;&gt;Entity&#xa;  With Direct Relation To Listed Jurisdiction (+ Customer/Counterparty With&#xa;  Entity Score Link)&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr height=&quot;19&quot; style=&quot;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl71&quot; width=&quot;1035&quot; style=&quot;height:14.5pt;border-top:none;&#xa;  width:777pt&quot;&gt;Entity With Indirect Relation to Listed Jurisdiction (+&#xa;  Customer/Counterparty With Entity Score Link)&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr height=&quot;19&quot; style=&quot;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl71&quot; width=&quot;1035&quot; style=&quot;height:14.5pt;border-top:none;&#xa;  width:777pt&quot;&gt;Transaction With Direct Relation To Listed Jurisdiction&#xa;  (Relationship level)&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr height=&quot;19&quot; style=&quot;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl64&quot; width=&quot;1035&quot; style=&quot;height:14.5pt;border-top:none;&#xa;  width:777pt&quot;&gt;Entity With Direct Link To Watchlist (+ Customer/Counterparty&#xa;  With Entity Score Link)&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr height=&quot;19&quot; style=&quot;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl64&quot; width=&quot;1035&quot; style=&quot;height:14.5pt;border-top:none;&#xa;  width:777pt&quot;&gt;Entity With Indirect Link To Watchlist (+ Customer/Counterparty&#xa;  With Entity Score Link)&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr height=&quot;19&quot; style=&quot;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl64&quot; width=&quot;1035&quot; style=&quot;height:14.5pt;border-top:none;&#xa;  width:777pt&quot;&gt;Entity With Listed Status (+ Customer/Counterparty With Entity&#xa;  Score Link)&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr height=&quot;19&quot; style=&quot;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl69&quot; style=&quot;height:14.5pt;border-top:none&quot;&gt;Entity With&#xa;  Confirmed Productive Investigation (+ Customer/Counterparty With Entity Score&#xa;  Link)&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr height=&quot;19&quot; style=&quot;mso-height-source:userset;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl69&quot; style=&quot;height:14.5pt;border-top:none&quot;&gt;Entity Linked&#xa;  to Entity With Confirmed Productive Investigation (+ Customer/Counterparty&#xa;  With Entity Score Link)&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr height=&quot;19&quot; style=&quot;mso-height-source:userset;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl69&quot; style=&quot;height:14.5pt;border-top:none&quot;&gt;Entity Is&#xa;  Highly Connected (+ Customer/Counterparty With Entity Score Link)&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr height=&quot;19&quot; style=&quot;mso-height-source:userset;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl72&quot; style=&quot;height:14.5pt;border-top:none&quot;&gt;Entity Linked&#xa;  To Highly Connected Entity (+ Customer/Counterparty With Entity Score Link)&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr height=&quot;19&quot; style=&quot;mso-height-source:userset;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl65&quot; width=&quot;1035&quot; style=&quot;height:14.5pt;border-top:none;&#xa;  width:777pt&quot;&gt;n/a - to discuss with Delph as part of pKYC scores since it&#xa;  requires comparison with CDD data&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr height=&quot;19&quot; style=&quot;mso-height-source:userset;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl65&quot; width=&quot;1035&quot; style=&quot;height:14.5pt;border-top:none;&#xa;  width:777pt&quot;&gt;n/a - this feels to me rather about some peer grouping, maybe we&#xa;  could check&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr height=&quot;19&quot; style=&quot;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl65&quot; width=&quot;1035&quot; style=&quot;height:14.5pt;border-top:none;&#xa;  width:777pt&quot;&gt;Rapid Monthly Increase In Value - Customer&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr height=&quot;19&quot; style=&quot;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl73&quot; width=&quot;1035&quot; style=&quot;height:14.5pt;border-top:none;&#xa;  width:777pt&quot;&gt;Rapid Monthly Increase In Value - Relationship&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr height=&quot;19&quot; style=&quot;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl66&quot; width=&quot;1035&quot; style=&quot;height:14.5pt;border-top:none;&#xa;  width:777pt&quot;&gt;Rapid Monthly Increase In Volume - Customer&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr height=&quot;19&quot; style=&quot;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl73&quot; width=&quot;1035&quot; style=&quot;height:14.5pt;border-top:none;&#xa;  width:777pt&quot;&gt;Rapid Monthly Increase In Volume - Relationship&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr height=&quot;19&quot; style=&quot;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl67&quot; width=&quot;1035&quot; style=&quot;height:14.5pt;border-top:none;&#xa;  width:777pt&quot;&gt;n/a - to get more details from BNPP&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr height=&quot;19&quot; style=&quot;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl65&quot; width=&quot;1035&quot; style=&quot;height:14.5pt;border-top:none;&#xa;  width:777pt&quot;&gt;n/a - to discuss with Delph as part of pKYC scores since it&#xa;  requires comparison with CDD data&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr height=&quot;19&quot; style=&quot;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl65&quot; width=&quot;1035&quot; style=&quot;height:14.5pt;border-top:none;&#xa;  width:777pt&quot;&gt;n/a - this feels to me rather about some peer grouping, maybe we&#xa;  could check&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr height=&quot;19&quot; style=&quot;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl65&quot; width=&quot;1035&quot; style=&quot;height:14.5pt;border-top:none;&#xa;  width:777pt&quot;&gt;Rapid Monthly Increase In Value - Customer&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr height=&quot;19&quot; style=&quot;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl66&quot; width=&quot;1035&quot; style=&quot;height:14.5pt;border-top:none;&#xa;  width:777pt&quot;&gt;Rapid Monthly Increase In Volume - Customer&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr height=&quot;19&quot; style=&quot;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl68&quot; style=&quot;height:14.5pt;border-top:none&quot;&gt;Entity With&#xa;  Listed Industry (+ Customer/Counterparty With Entity Score Link)&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr height=&quot;19&quot; style=&quot;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl68&quot; style=&quot;height:14.5pt;border-top:none&quot;&gt;Entity With&#xa;  Listed Legal Form (+ Customer/Counterparty With Entity Score Link)&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr height=&quot;19&quot; style=&quot;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl68&quot; style=&quot;height:14.5pt;border-top:none&quot;&gt;n/a - this&#xa;  would be a score looking at the corporate structure and assess&#xa;  characteristics (e.g., levels between company and UBO)&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr height=&quot;19&quot; style=&quot;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl69&quot; style=&quot;height:14.5pt;border-top:none&quot;&gt;Entity With&#xa;  Specific Age (+ Counterparty With Entity Score Link)&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr height=&quot;19&quot; style=&quot;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl68&quot; style=&quot;height:14.5pt;border-top:none&quot;&gt;n/a - we don&#39;t&#xa;  have change scores, to be discussed with Delph as part of pKYC scores / Check&#xa;  if &quot;New Company&quot; Score on DetPack / change detection on company&#xa;  Purpose&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr height=&quot;19&quot; style=&quot;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl70&quot; width=&quot;1035&quot; style=&quot;height:14.5pt;border-top:none;&#xa;  width:777pt&quot;&gt;Structuring - Relationship&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr height=&quot;19&quot; style=&quot;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl70&quot; width=&quot;1035&quot; style=&quot;height:14.5pt;border-top:none;&#xa;  width:777pt&quot;&gt;Round Amounts - Customer&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr height=&quot;19&quot; style=&quot;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl74&quot; width=&quot;1035&quot; style=&quot;height:14.5pt;border-top:none;&#xa;  width:777pt&quot;&gt;Round Amounts - Relationship&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr height=&quot;19&quot; style=&quot;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl68&quot; style=&quot;height:14.5pt;border-top:none&quot;&gt;Numeric&#xa;  Irregularities - Customer&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa; &lt;tr height=&quot;19&quot; style=&quot;height:14.5pt&quot;&gt;&#xa;  &lt;td height=&quot;19&quot; class=&quot;xl75&quot; style=&quot;height:14.5pt;border-top:none&quot;&gt;Numeric&#xa;  Irregularities - Relationship&lt;/td&gt;&#xa; &lt;/tr&gt;&#xa;&#xa;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1554" y="147.00142857142856" width="550" height="2302" as="geometry" />
+        <mxCell id="mWCD5HpuR10m7oxnyKSS-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mWCD5HpuR10m7oxnyKSS-23" target="mWCD5HpuR10m7oxnyKSS-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mWCD5HpuR10m7oxnyKSS-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mWCD5HpuR10m7oxnyKSS-23" target="mWCD5HpuR10m7oxnyKSS-72">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mWCD5HpuR10m7oxnyKSS-23" value="Generic Scorecard&lt;br&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="495" y="197" width="115" height="115" as="geometry" />
+          <mxGeometry x="874" y="49" width="115" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="mWCD5HpuR10m7oxnyKSS-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.672;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mWCD5HpuR10m7oxnyKSS-3" target="mWCD5HpuR10m7oxnyKSS-23">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mWCD5HpuR10m7oxnyKSS-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.672;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="mWCD5HpuR10m7oxnyKSS-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="279" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mWCD5HpuR10m7oxnyKSS-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.377;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mWCD5HpuR10m7oxnyKSS-5" target="mWCD5HpuR10m7oxnyKSS-23">
           <mxGeometry relative="1" as="geometry" />
@@ -72,6 +77,9 @@
         </mxCell>
         <mxCell id="mWCD5HpuR10m7oxnyKSS-33" value="Numeric Irregularities - Customer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="165" y="817" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mWCD5HpuR10m7oxnyKSS-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="mWCD5HpuR10m7oxnyKSS-34" target="mWCD5HpuR10m7oxnyKSS-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mWCD5HpuR10m7oxnyKSS-34" value="Numeric Irregularities - Relationship" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="165" y="895" width="120" height="60" as="geometry" />
@@ -114,16 +122,18 @@
         <mxCell id="mWCD5HpuR10m7oxnyKSS-43" value="Transaction to / from high-risk jurisdictions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="274" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mWCD5HpuR10m7oxnyKSS-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mWCD5HpuR10m7oxnyKSS-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1182.411764705883" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mWCD5HpuR10m7oxnyKSS-48" value="Retail Scorecard" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="357" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="967" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mWCD5HpuR10m7oxnyKSS-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.436;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mWCD5HpuR10m7oxnyKSS-32" target="mWCD5HpuR10m7oxnyKSS-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mWCD5HpuR10m7oxnyKSS-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.015;entryY=0.321;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mWCD5HpuR10m7oxnyKSS-30" target="mWCD5HpuR10m7oxnyKSS-48">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mWCD5HpuR10m7oxnyKSS-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.376;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mWCD5HpuR10m7oxnyKSS-48" target="mWCD5HpuR10m7oxnyKSS-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mWCD5HpuR10m7oxnyKSS-55" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;BNPP Requirements :&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -191,9 +201,6 @@
         <mxCell id="mWCD5HpuR10m7oxnyKSS-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.421;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mWCD5HpuR10m7oxnyKSS-57" target="mWCD5HpuR10m7oxnyKSS-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mWCD5HpuR10m7oxnyKSS-72" value="CTF Scorecard" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="408" y="1172" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="mWCD5HpuR10m7oxnyKSS-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.005;entryY=0.407;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mWCD5HpuR10m7oxnyKSS-60" target="mWCD5HpuR10m7oxnyKSS-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -203,11 +210,63 @@
         <mxCell id="mWCD5HpuR10m7oxnyKSS-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.398;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mWCD5HpuR10m7oxnyKSS-63" target="mWCD5HpuR10m7oxnyKSS-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mWCD5HpuR10m7oxnyKSS-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.67;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mWCD5HpuR10m7oxnyKSS-72" target="mWCD5HpuR10m7oxnyKSS-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="mWCD5HpuR10m7oxnyKSS-81" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Scores&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="192.5" y="39" width="65" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="mWCD5HpuR10m7oxnyKSS-97" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Alert&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="603" width="81" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="mWCD5HpuR10m7oxnyKSS-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mWCD5HpuR10m7oxnyKSS-72" target="mWCD5HpuR10m7oxnyKSS-101">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1167.411764705883" y="1031" as="targetPoint" />
+            <mxPoint x="1072" y="1031" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWCD5HpuR10m7oxnyKSS-101" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Alert&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="1288" y="986" width="81" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="mWCD5HpuR10m7oxnyKSS-72" value="CTF Scorecard" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="874" y="1003" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mWCD5HpuR10m7oxnyKSS-103" value="Threshold 100" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1169" y="1001" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mWCD5HpuR10m7oxnyKSS-104" value="Threshold 100" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1099" y="613" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mWCD5HpuR10m7oxnyKSS-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1084.411764705883" y="106.5" as="targetPoint" />
+            <mxPoint x="989" y="106.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWCD5HpuR10m7oxnyKSS-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mWCD5HpuR10m7oxnyKSS-106" target="mWCD5HpuR10m7oxnyKSS-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mWCD5HpuR10m7oxnyKSS-106" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Alert&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="1083" y="59.5" width="81" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="mWCD5HpuR10m7oxnyKSS-107" value="Threshold 50" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1006" y="71" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mWCD5HpuR10m7oxnyKSS-108" value="Task" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="1289" y="74" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mWCD5HpuR10m7oxnyKSS-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="mWCD5HpuR10m7oxnyKSS-111">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1262" y="650" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWCD5HpuR10m7oxnyKSS-111" value="Task" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="1387" y="617" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mWCD5HpuR10m7oxnyKSS-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="mWCD5HpuR10m7oxnyKSS-113">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1366" y="1033" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWCD5HpuR10m7oxnyKSS-113" value="Task" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="1491" y="1000" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
