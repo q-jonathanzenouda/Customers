@@ -1,0 +1,165 @@
+<mxfile host="app.diagrams.net" modified="2024-08-29T14:29:12.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="Ly7SliEGR4rgf79kZ3nT" version="24.4.13" type="github">
+  <diagram name="Page-1" id="Pn1A8JtH4fjMCvmGHNoi">
+    <mxGraphModel dx="1961" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-1" value="Milienium partner entity biz" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="190" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2IZwbgm3AdFgwhGqmHC9-2" target="2IZwbgm3AdFgwhGqmHC9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-2" value="Milienium Partners (KYC Data) London" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="190" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-4" value="ALPHA Capital (KYC Data) Turkey" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="650" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2IZwbgm3AdFgwhGqmHC9-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2IZwbgm3AdFgwhGqmHC9-5" target="2IZwbgm3AdFgwhGqmHC9-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-31" value="Settlement" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2IZwbgm3AdFgwhGqmHC9-28">
+          <mxGeometry x="0.0453" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-5" value="Alpha entity biz" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="700" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.075;entryY=0.742;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="2IZwbgm3AdFgwhGqmHC9-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="370" as="sourcePoint" />
+            <mxPoint x="310" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-12" value="Aggregated Orders" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2IZwbgm3AdFgwhGqmHC9-8">
+          <mxGeometry x="-0.24" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-10" value="Bank1 London" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-26" value="Settlement" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2IZwbgm3AdFgwhGqmHC9-10" target="2IZwbgm3AdFgwhGqmHC9-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="372" y="470" />
+              <mxPoint x="230" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-27" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2IZwbgm3AdFgwhGqmHC9-26">
+          <mxGeometry x="0.1617" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-29" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2IZwbgm3AdFgwhGqmHC9-26">
+          <mxGeometry x="0.0831" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-11" value="Bank2 Turkey" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="510" y="193" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-14" value="Aggreg Order security 1, 2, 3 (3 doc)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="310" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-15" value="Aggreg order :&lt;div&gt;- security id: PNP&lt;/div&gt;&lt;div&gt;- receiving broker : Millienium partner&lt;/div&gt;&lt;div&gt;- direction: sell&lt;/div&gt;&lt;div&gt;- customer: Millenium partner&lt;/div&gt;&lt;div&gt;- aggregated quantity : 200/350/700 shares&lt;/div&gt;&lt;div&gt;- aggregated amount : 4000/7000/14000 £&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-95" y="178" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=1.029;entryY=0.654;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.046;exitY=0.408;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2IZwbgm3AdFgwhGqmHC9-5" target="2IZwbgm3AdFgwhGqmHC9-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="351" as="sourcePoint" />
+            <mxPoint x="686" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-17" value="Aggregated Orders" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2IZwbgm3AdFgwhGqmHC9-16">
+          <mxGeometry x="-0.24" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-18" value="Aggreg Order security 1, 2, 3, 4&amp;nbsp; (4 doc)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="291" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-19" value="Aggreg order :&lt;div&gt;- security id: PNP&lt;/div&gt;&lt;div&gt;- direction: buy&lt;/div&gt;&lt;div&gt;- receiving broker : Bank2 Turkey&lt;/div&gt;&lt;div&gt;- customer: Alpha Capital&lt;/div&gt;&lt;div&gt;- aggregated quantity : 200/350/700/150 shares&lt;/div&gt;&lt;div&gt;- aggregated amount : 4000/7000/14000/3000 £&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="745" y="195" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2IZwbgm3AdFgwhGqmHC9-33" target="2IZwbgm3AdFgwhGqmHC9-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="202" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2IZwbgm3AdFgwhGqmHC9-33" target="2IZwbgm3AdFgwhGqmHC9-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-33" value="Corp registry&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-35" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="630" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-37" value="3 shareholders 2 directors" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="688" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2IZwbgm3AdFgwhGqmHC9-38" target="2IZwbgm3AdFgwhGqmHC9-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-38" value="Shareholder 1&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="500" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="2IZwbgm3AdFgwhGqmHC9-44" source="2IZwbgm3AdFgwhGqmHC9-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="600" as="sourcePoint" />
+            <mxPoint x="728.5" y="560.5999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="600" />
+              <mxPoint x="454" y="600" />
+              <mxPoint x="454" y="780" />
+              <mxPoint x="729" y="780" />
+              <mxPoint x="729" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-44" value="Shareholder turksish living in UK" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="720" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-46" value="Watchlist" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="663" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2IZwbgm3AdFgwhGqmHC9-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="722" y="403" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="722" y="545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-49" value="Corp registry&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2IZwbgm3AdFgwhGqmHC9-49" target="2IZwbgm3AdFgwhGqmHC9-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-51" value="shareholder" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2IZwbgm3AdFgwhGqmHC9-50">
+          <mxGeometry x="0.1481" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-52" value="List of dynamic scores to represent :&amp;nbsp;&lt;div&gt;- Mirror trading&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Social connection between counterparties&lt;/div&gt;&lt;div&gt;- indirect link to watchlist&lt;/div&gt;&lt;div&gt;- remote booking&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Connection to high risk jurisdiction&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="798" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2IZwbgm3AdFgwhGqmHC9-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2IZwbgm3AdFgwhGqmHC9-49" target="2IZwbgm3AdFgwhGqmHC9-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
